@@ -1,4 +1,4 @@
-package io.github.joczar.starling.application;
+package io.github.joczar.starling.api;
 
 import io.github.joczar.starling.domain.ProjectRequest;
 import io.github.joczar.starling.domain.ProjectResponse;
